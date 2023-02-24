@@ -1,0 +1,18 @@
+format: jb-book
+root: README.md
+chapters:
+- file: 1_quick_start/README.md
+  sections:
+   - file: 1_quick_start/1_drawing/README.md
+     sections:
+      - file: 1_quick_start/1_drawing/1_create_first_prototype.md
+      - file: 1_quick_start/1_drawing/2_improve_user_interface
+      - file: 1_quick_start/1_drawing/3_add_interative_actions.md
+   - file: 1_quick_start/2_reusing/README.md
+     sections:
+      - file: 1_quick_start/2_reusing/1_create_first_component.md
+      - file: 1_quick_start/2_reusing/2_use_plugins.md
+   - file: 1_quick_start/3_colloborating/README.md
+     sections:
+      - file: 1_quick_start/3_colloborating/1_manage_version_histories.md
+      - file: 1_quick_start/3_colloborating/2_colloborate_with_teammates.md
