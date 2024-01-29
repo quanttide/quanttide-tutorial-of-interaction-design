@@ -1,5 +1,5 @@
 format: jb-book
-root: README.md
+root: index.md
 parts:
   - caption: 快速入门
     chapters:
@@ -22,9 +22,3 @@ parts:
     chapters:
       - file: responsive_design/README.md
       - file: design_language/README.md
-  - caption: 协作
-    chapters: 
-      - file: codesign/README.md
-  - caption: 高级篇
-    chapters:
-      - file: developing_widgets/README.md
