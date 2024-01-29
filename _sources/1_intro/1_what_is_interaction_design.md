@@ -1,0 +1,13 @@
+# 什么是交互设计？
+
+想象一下，你正在用手机玩一个游戏，或者在电脑上浏览一个网站，你看到的每一个按钮、动画，甚至是它们的反应速度，都是交互设计师精心设计的。交互设计，简单来说，就是设计这些让用户觉得用起来舒服、自然的界面和功能。
+
+交互设计师要考虑的问题很多，比如按钮上的文字要简单易懂，图像和排版要能帮助用户更好地理解信息，还要考虑到用户是在什么样的环境下使用产品，是在嘈杂的地铁上，还是安静的办公室里。他们还要确保用户在使用产品时能得到及时的反馈，比如点击按钮后能看到动画效果，这样用户才知道自己的操作被系统识别了。
+
+交互设计不仅仅是关于好看的外观，更重要的是它要让用户在使用产品时感觉顺畅，不费力。这就需要设计师们深入理解用户的需求，创造出既美观又实用的设计。所以，下次当你用手机或者电脑时，不妨留意一下那些让你觉得用起来很顺手的细节，背后可能就有交互设计师的辛勤付出哦。
+
+## 拓展阅读
+
+- [What is Interaction Design? | IxDF](https://www.interaction-design.org/literature/article/what-is-interaction-design)
+- [What is Interaction Design? (Updated 2023) | Qualtrics](https://www.qualtrics.com/experience-management/customer/interaction-design/)
+- [What is Interaction Design? | UXPin](https://www.uxpin.com/studio/blog/interaction-design-its-origin-and-principles/)
