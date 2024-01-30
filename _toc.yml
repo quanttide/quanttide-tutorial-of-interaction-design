@@ -6,6 +6,6 @@ parts:
       - file: 1_intro/README.md
         sections:
           - file: 1_intro/1_what_is_interaction_design.md
-          - file: 1_intro/2_drawing_low_fidelity_prototypes.md
-          - file: 1_intro/3_drawing_high_fidelity_prototypes.md
+          - file: 1_intro/2_drawing_prototypes_by_hand.md
+          - file: 1_intro/3_drawing_prototypes_by_softwares.md
           - file: 1_intro/4_how_to_learn_interaction_design.md
